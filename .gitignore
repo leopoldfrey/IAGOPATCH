@@ -3,3 +3,11 @@ h.shell.mxo/Contents/Info.plist
 h.shell.mxo/Contents/MacOS/h.shell
 
 h.shell.mxo/Contents/PkgInfo
+
+OSC-route.mxo/Contents/Info.plist
+
+OSC-route.mxo/Contents/MacOS/OSC-route
+
+ease.mxo/Contents/MacOS/ease
+
+ease.mxo/Contents/Info.plist
