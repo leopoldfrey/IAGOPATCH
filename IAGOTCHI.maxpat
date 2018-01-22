@@ -2219,7 +2219,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20180122_100700"
+													"text" : "20180122_101015"
 												}
 
 											}
@@ -4000,6 +4000,7 @@
 							}
 , 							{
 								"box" : 								{
+									"dontreplace" : 1,
 									"id" : "obj-78",
 									"maxclass" : "message",
 									"numinlets" : 2,
@@ -4009,12 +4010,13 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 174.5, 511.75, 41.0, 22.0 ],
 									"style" : "",
-									"text" : "0"
+									"text" : "11"
 								}
 
 							}
 , 							{
 								"box" : 								{
+									"dontreplace" : 1,
 									"id" : "obj-77",
 									"maxclass" : "message",
 									"numinlets" : 2,
@@ -6032,10 +6034,9 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 594.5, 318.0, 183.0, 24.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 2,
-									"presentation_rect" : [ 19.0, 397.75, 111.0, 42.0 ],
+									"presentation_rect" : [ 19.0, 397.75, 111.0, 24.0 ],
 									"style" : "",
-									"text" : "interaction limitée"
+									"text" : "Léo"
 								}
 
 							}
@@ -7277,6 +7278,7 @@
 							}
 , 							{
 								"box" : 								{
+									"dontreplace" : 1,
 									"id" : "obj-21",
 									"maxclass" : "message",
 									"numinlets" : 2,
@@ -7286,7 +7288,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 176.5, 398.75, 39.0, 22.0 ],
 									"style" : "",
-									"text" : "6"
+									"text" : "5"
 								}
 
 							}
@@ -13843,7 +13845,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 171.5, 432.5, 121.0, 22.0 ],
 																	"style" : "",
-																	"text" : "\"interaction limitée\""
+																	"text" : "Léo"
 																}
 
 															}
@@ -17468,7 +17470,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 108.0, 114.0, 577.0, 22.0 ],
 									"style" : "",
-									"text" : "je m'appelle interaction"
+									"text" : "Léo"
 								}
 
 							}
@@ -17481,7 +17483,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 70.0, 144.0, 577.0, 22.0 ],
 									"style" : "",
-									"text" : "va au revoir"
+									"text" : "Léo"
 								}
 
 							}
