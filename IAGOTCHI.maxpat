@@ -395,8 +395,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -677,14 +677,13 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-141",
 									"maxclass" : "newobj",
 									"numinlets" : 0,
 									"numoutlets" : 4,
-									"outlettype" : [ "", "", "", "" ],
+									"outlettype" : [ "bang", "bang", "bang", "bang" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -1132,7 +1131,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "int" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -1926,7 +1925,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "int" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -2775,7 +2774,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "int" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -3155,7 +3154,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 748.75, 239.0, 24.0, 24.0 ],
-									"presentation_rect" : [ 509.75, 563.71344, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3169,7 +3167,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 986.0, 243.96051, 24.0, 24.0 ],
-									"presentation_rect" : [ 912.0, 552.67395, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3183,7 +3180,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 936.333313, 243.96051, 24.0, 24.0 ],
-									"presentation_rect" : [ 885.75, 555.67395, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3197,7 +3193,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 886.666687, 243.96051, 24.0, 24.0 ],
-									"presentation_rect" : [ 836.75, 555.67395, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3211,7 +3206,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 836.75, 243.96051, 24.0, 24.0 ],
-									"presentation_rect" : [ 794.75, 531.71344, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3225,7 +3219,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 684.0, 244.71344, 24.0, 24.0 ],
-									"presentation_rect" : [ 670.75, 504.71344, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3239,7 +3232,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 358.0, 242.0, 24.0, 24.0 ],
-									"presentation_rect" : [ 527.75, 506.0, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3253,7 +3245,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 641.0, 246.0, 24.0, 24.0 ],
-									"presentation_rect" : [ 846.0, 582.0, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3280,7 +3271,6 @@
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 490.5, 243.5, 24.0, 24.0 ],
-									"presentation_rect" : [ 900.75, 373.0, 0.0, 0.0 ],
 									"style" : ""
 								}
 
@@ -3585,7 +3575,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 17.0, 243.5, 43.0, 22.0 ],
-									"presentation_rect" : [ 744.0, 524.0, 0.0, 0.0 ],
 									"style" : "",
 									"text" : "s stop"
 								}
@@ -3941,8 +3930,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4147,8 +4136,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4615,8 +4604,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -8403,8 +8392,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8587,8 +8576,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -9707,8 +9696,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -10258,7 +10247,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
-									"outlettype" : [ "clear" ],
+									"outlettype" : [ "" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -10441,7 +10430,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"outlettype" : [ "bang" ],
 									"patcher" : 									{
 										"fileversion" : 1,
 										"appversion" : 										{
@@ -10859,8 +10848,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11935,7 +11924,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20181005_153559"
+													"text" : "20181006_004537"
 												}
 
 											}
@@ -12844,6 +12833,19 @@
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
 																"box" : 																{
+																	"id" : "obj-71",
+																	"maxclass" : "message",
+																	"numinlets" : 2,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "" ],
+																	"patching_rect" : [ 324.0, 559.0, 65.0, 22.0 ],
+																	"style" : "",
+																	"text" : "writeagain"
+																}
+
+															}
+, 															{
+																"box" : 																{
 																	"id" : "obj-10",
 																	"maxclass" : "newobj",
 																	"numinlets" : 1,
@@ -13360,8 +13362,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -13980,8 +13982,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -15739,8 +15741,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -16017,6 +16019,13 @@
 																}
 
 															}
+, 															{
+																"patchline" : 																{
+																	"destination" : [ "obj-110", 0 ],
+																	"source" : [ "obj-71", 0 ]
+																}
+
+															}
  ],
 														"styles" : [ 															{
 																"name" : "AudioStatus_Menu",
@@ -16056,8 +16065,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -16125,6 +16134,19 @@
 														"style" : "",
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
+																"box" : 																{
+																	"id" : "obj-71",
+																	"maxclass" : "message",
+																	"numinlets" : 2,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "" ],
+																	"patching_rect" : [ 375.0, 554.0, 65.0, 22.0 ],
+																	"style" : "",
+																	"text" : "writeagain"
+																}
+
+															}
+, 															{
 																"box" : 																{
 																	"id" : "obj-10",
 																	"maxclass" : "newobj",
@@ -16642,8 +16664,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -17274,8 +17296,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -19033,8 +19055,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -19307,6 +19329,13 @@
 , 															{
 																"patchline" : 																{
 																	"destination" : [ "obj-110", 0 ],
+																	"source" : [ "obj-71", 0 ]
+																}
+
+															}
+, 															{
+																"patchline" : 																{
+																	"destination" : [ "obj-110", 0 ],
 																	"source" : [ "obj-8", 0 ]
 																}
 
@@ -19357,8 +19386,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -19426,6 +19455,19 @@
 														"style" : "",
 														"subpatcher_template" : "",
 														"boxes" : [ 															{
+																"box" : 																{
+																	"id" : "obj-71",
+																	"maxclass" : "message",
+																	"numinlets" : 2,
+																	"numoutlets" : 1,
+																	"outlettype" : [ "" ],
+																	"patching_rect" : [ 326.0, 558.0, 65.0, 22.0 ],
+																	"style" : "",
+																	"text" : "writeagain"
+																}
+
+															}
+, 															{
 																"box" : 																{
 																	"id" : "obj-20",
 																	"maxclass" : "newobj",
@@ -19956,8 +19998,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -20547,8 +20589,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -22306,8 +22348,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -22615,6 +22657,13 @@
 , 															{
 																"patchline" : 																{
 																	"destination" : [ "obj-110", 0 ],
+																	"source" : [ "obj-71", 0 ]
+																}
+
+															}
+, 															{
+																"patchline" : 																{
+																	"destination" : [ "obj-110", 0 ],
 																	"source" : [ "obj-9", 0 ]
 																}
 
@@ -22658,8 +22707,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -22722,8 +22771,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -22796,7 +22845,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 336.5, 40.0, 153.5, 348.742859 ],
 									"readonly" : 1,
-									"rows" : 22,
+									"rows" : 23,
 									"sccolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"selmode" : 0,
 									"sgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -23361,8 +23410,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -24258,8 +24307,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -24339,8 +24388,7 @@
 									"patching_rect" : [ 390.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 482.25, 39.0, 22.0 ],
-									"style" : "",
-									"text" : "34"
+									"style" : ""
 								}
 
 							}
@@ -25147,8 +25195,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -25190,7 +25238,7 @@
 								"box" : 								{
 									"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ],
 									"bordercolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"cols" : 2,
+									"cols" : 1,
 									"fgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -25450,7 +25498,7 @@
 											}
 , 											{
 												"box" : 												{
-													"cols" : 2,
+													"cols" : 1,
 													"fontface" : 0,
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
@@ -25489,7 +25537,7 @@
 													"numoutlets" : 4,
 													"outlettype" : [ "list", "", "", "" ],
 													"patching_rect" : [ 30.0, 292.0, 161.25, 427.0 ],
-													"rows" : 22
+													"rows" : 23
 												}
 
 											}
@@ -26582,8 +26630,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -27369,8 +27417,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -29026,8 +29074,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -29724,8 +29772,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -29829,8 +29877,7 @@
 									"patching_rect" : [ 252.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 440.75, 39.0, 22.0 ],
-									"style" : "",
-									"text" : "15"
+									"style" : ""
 								}
 
 							}
@@ -30063,8 +30110,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 449.0, 441.0, 50.0, 22.0 ],
-													"style" : "",
-													"text" : "2"
+													"style" : ""
 												}
 
 											}
@@ -30733,8 +30779,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -30891,8 +30937,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -31539,8 +31585,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -32034,8 +32080,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -32074,14 +32120,12 @@
 												"box" : 												{
 													"dontreplace" : 1,
 													"id" : "obj-81",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 114.0, 570.25, 794.0, 35.0 ],
-													"style" : "",
-													"text" : "beauté1437 \"pensée et pour toi\" \"pensée des mécanismes de Renault qui... mais qui sont actifs et Danton ma conscience d'être active avec caisson actif... donc ce qui pourrait se différencier des choses qu'on fait sans en avoir conscience d'avoir des pensées inconsciente... bref...\""
+													"style" : ""
 												}
 
 											}
@@ -33420,8 +33464,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -34187,8 +34231,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -34763,8 +34807,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -36420,8 +36464,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -37726,8 +37770,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -39072,8 +39116,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -40080,8 +40124,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -41835,8 +41879,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -42765,8 +42809,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -43825,7 +43869,6 @@
 																		"tags" : "",
 																		"style" : "",
 																		"subpatcher_template" : "",
-																		"visible" : 1,
 																		"boxes" : [ 																			{
 																				"box" : 																				{
 																					"id" : "obj-7",
@@ -44313,8 +44356,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -45184,8 +45227,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -45756,8 +45799,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 78.0, 468.0, 50.0, 22.0 ],
-																	"style" : "",
-																	"text" : "20"
+																	"style" : ""
 																}
 
 															}
@@ -45978,8 +46020,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 329.0, 468.0, 305.0, 22.0 ],
-																	"style" : "",
-																	"text" : "\"pourquoi pas\""
+																	"style" : ""
 																}
 
 															}
@@ -45987,14 +46028,12 @@
 																"box" : 																{
 																	"dontreplace" : 1,
 																	"id" : "obj-50",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 198.0, 466.0, 46.0, 35.0 ],
-																	"style" : "",
-																	"text" : "pensée"
+																	"style" : ""
 																}
 
 															}
@@ -47622,7 +47661,6 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
-														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"color" : [ 0.941176, 0.690196, 0.196078, 1.0 ],
@@ -48250,8 +48288,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -50207,8 +50245,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -50870,8 +50908,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -53105,7 +53143,6 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"color" : [ 1.0, 0.741176, 0.196078, 1.0 ],
@@ -54545,15 +54582,25 @@
 
 			}
  ],
-		"parameters" : 		{
-
-		}
-,
 		"dependency_cache" : [ 			{
 				"name" : "sw.maxpat",
 				"bootpath" : "/Users/Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
 				"patcherrelativepath" : "../../../../../../Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoKeyWords.coll.txt",
+				"bootpath" : "~/Documents/__PROJETS/_pulso/IAGOTCHI/IAGOPATCH",
+				"patcherrelativepath" : ".",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoKeyWordsWithArticles.coll.txt",
+				"bootpath" : "~/Documents/__PROJETS/_pulso/IAGOTCHI/IAGOPATCH",
+				"patcherrelativepath" : ".",
+				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
@@ -54615,8 +54662,8 @@
 , 			{
 				"name" : "arialbold",
 				"default" : 				{
-					"fontsize" : [ 10.0 ],
-					"fontname" : [ "Arial Bold" ]
+					"fontname" : [ "Arial Bold" ],
+					"fontsize" : [ 10.0 ]
 				}
 ,
 				"parentstyle" : "",
