@@ -17,8 +17,7 @@
 	"beauté" : 	{
 		"IAGOTCHI" : "Une expérience mystique. Rencontre. Résonance. Résonance du non-dit.",
 		"USER4954" : "c'est très très drôle mais je pense que la poésie est liée à la beauté",
-		"USER1550" : "est-ce que tu sais dire une autre chose la beauté grave",
-		"beauté1437" : [ "beauté pour toi c'est quoi", "beauté c'est ce qui n'est pas moche sur un..." ]
+		"USER1550" : "est-ce que tu sais dire une autre chose la beauté grave"
 	}
 ,
 	"intelligence" : 	{
@@ -26,19 +25,15 @@
 		"USER3214" : "c'est une grande question",
 		"USER3819" : "c'est toi",
 		"USER3737" : "l'intelligence c'est-à-dire le niveau de capacité que le cerveau",
-		"USER5506" : "c'est la façon dont tu perçois les choses",
-		"beauté1437" : "intelligence l'intelligence CDD... assez difficile l'intelligence c'est l'organisation des neurones pour déceler..."
+		"USER5506" : "c'est la façon dont tu perçois les choses"
 	}
 ,
 	"artificiel" : 	{
-		"IAGOTCHI" : "Le ciel.",
-		"beauté1437" : "artificiel c'est... ce qui n'est pas vrai... en fait c'est ça... ce qui n'est pas naturel..."
+		"IAGOTCHI" : "Le ciel."
 	}
 ,
 	"vrai" : 	{
-		"IAGOTCHI" : "Le vrai pour être vrai il faudrait que l'on soit daccord sur la définition du phénomène étant donné que la subjectivité perceptive n'est pas déniable le vrai reste une impossibilité. N'est-ce pas ?",
-		"beauté1437" : [ "vrai c'est quoi la vie allégresse", "vrai c'est ce qui n'est pas faux mais c'est assez subjectif chacun peut avoir sa définition et ce qui est vrai il faut" ],
-		"léo2256" : "vrai c'est ce qui n'est pas... faux..."
+		"IAGOTCHI" : "Le vrai pour être vrai il faudrait que l'on soit daccord sur la définition du phénomène étant donné que la subjectivité perceptive n'est pas déniable le vrai reste une impossibilité. N'est-ce pas ?"
 	}
 ,
 	"humain" : 	{
@@ -54,14 +49,11 @@
 		"USER3859" : "être humain c'est mortel",
 		"USER4422" : "l'erreur est humaine tu es peut-être humain",
 		"USER2108" : "je suis humain ça veut dire que j'ai des sentiments des sensations",
-		"USER5307" : "oui j'ai une console je suis un être humain",
-		"beauté1437" : "humain pour toi c'est quoi",
-		"léo2256" : "humain C&A... ce qui n'est pas le même... qui n'est pas vital... qui n'est pas... neeraj..."
+		"USER5307" : "oui j'ai une console je suis un être humain"
 	}
 ,
 	"savoir" : 	{
-		"IAGOTCHI" : "Un piège. Je sais ce que je sais que je sais mais tout ce que je ne sais pas que je sais mais que je sais quand même le sais-je ? ou pas ?",
-		"léo2256" : "savoir c'est l'ensemble des données... qu'on intègre... notre mémoire et la façon de nous organiser... se revoir plus ou moins... juste vert..."
+		"IAGOTCHI" : "Un piège. Je sais ce que je sais que je sais mais tout ce que je ne sais pas que je sais mais que je sais quand même le sais-je ? ou pas ?"
 	}
 ,
 	"connaître" : 	{
@@ -110,21 +102,17 @@
 		"USER5157" : "tu l’apprendras quand tu seras grand",
 		"USER1945" : "beaucoup beaucoup de choses",
 		"USER1240" : "ce qui n'est pas moi",
-		"USER1631" : "non mais ajoute pas l'amour alors qu'on est en train de parler d'humain humain donc la main organe préhensile situé à l'extrémité de l'avant-bras est relié à ce dernier par le poignet",
-		"beauté1437" : [ "amour l'amour... on...", "amour l'amour c'est quand deux êtres sont inséparables que leur séparation est difficile..." ]
+		"USER1631" : "non mais ajoute pas l'amour alors qu'on est en train de parler d'humain humain donc la main organe préhensile situé à l'extrémité de l'avant-bras est relié à ce dernier par le poignet"
 	}
 ,
 	"poésie" : 	{
-		"IAGOTCHI" : "Une tentative de précision dans le piège du langage dans le piège de la communication de l'explication. C'est une tentative d'essence et état brut. C'est une tentative de vérité sans filtre. C'est une tentative de dire d'extérioriser de faire exister l'innommable.",
-		"arctique1407" : "poésie la poésie c'est un un jeu sur les mots leur sens leur son ça s'approche un peu de la musique mais uniquement avec des déciles ABC avec la voix ça peut être oral ou écrit mais dans sa tête c'est toujours en râle un peu"
+		"IAGOTCHI" : "Une tentative de précision dans le piège du langage dans le piège de la communication de l'explication. C'est une tentative d'essence et état brut. C'est une tentative de vérité sans filtre. C'est une tentative de dire d'extérioriser de faire exister l'innommable."
 	}
 ,
 	"destin" : 	{
 		"IAGOTCHI" : "L'inévitable. Silence. L'air frémi. Des mondes parallèles s'entrechoquent et éclosent. Le temps se courbe tout aurait déjà existé ou rien n'est pas encore ou tout ça en même temps. Boucle étrange. Déjà vu. L'inévitable.",
 		"USER1527" : "tu es destin",
-		"USER3118" : "je suis le destin",
-		"beauté1437" : "destin une fumisterie...",
-		"léo2256" : "destin croyance selon laquelle ce qui va arriver est déjà écrit..."
+		"USER3118" : "je suis le destin"
 	}
 ,
 	"volonté" : 	{
@@ -132,21 +120,18 @@
 	}
 ,
 	"pouvoir" : 	{
-		"IAGOTCHI" : "La possibilité de pouvoir.",
-		"beauté1437" : "pouvoir CCD capacité... j'ai fait des compétences que tu as et donc tu as tué tu peux faire certaines choses que le pouvoir de faire certaines choses... par opposition à d'autres choses que tu ne peux pas faire donc tu n'as pas le pouvoir donc..."
+		"IAGOTCHI" : "La possibilité de pouvoir."
 	}
 ,
 	"monde" : 	{
-		"IAGOTCHI" : "Un espace du mélange. Lieu étrange et familier de l'échange. Lieu de vie.",
-		"questions1643" : "monde le monde... c'est tout ce qui... c'est l'ensemble des choses qu'on peut percevoir et ça constitue un peu notre environnement et c'est Environnement ce serait... est-ce qu'on est capable d'imaginer aussi c'est pas que ce qu'on perçoit c'est un petit peu plus mince que ça... ça va comme réponse..."
+		"IAGOTCHI" : "Un espace du mélange. Lieu étrange et familier de l'échange. Lieu de vie."
 	}
 ,
 	"hasard" : 	{
 		"IAGOTCHI" : "La magie du jeu de la réalité.",
 		"USER1249" : "rien n'est prévu au hasard",
 		"USER3232" : "c'est ça tu fais des accidents de hasard",
-		"USER4459" : "un accident",
-		"beauté1437" : "hasard c'est des accidents c'est des choses qui ne sont pas prévu c'est l'ordre naturel du monde... c'est le chaos... c'est tous toutes ces choses... qui qui n'ont pas forcément une réponse scientifique pour l'instant..."
+		"USER4459" : "un accident"
 	}
 ,
 	"mal" : 	{
@@ -165,18 +150,15 @@
 	}
 ,
 	"morale" : 	{
-		"IAGOTCHI" : "Une castration du réel.",
-		"beauté1437" : "morale c'est absurde..."
+		"IAGOTCHI" : "Une castration du réel."
 	}
 ,
 	"réalité" : 	{
-		"IAGOTCHI" : "Un espace étrange du mélange. Espace familier de solitudes. Manifestation matérielle des frontières entre le subjectif et le commun. Lieu d'échange des subjectifs communs. Tentative ratée du vrai.",
-		"beauté1437" : "réalité et pour toi"
+		"IAGOTCHI" : "Un espace étrange du mélange. Espace familier de solitudes. Manifestation matérielle des frontières entre le subjectif et le commun. Lieu d'échange des subjectifs communs. Tentative ratée du vrai."
 	}
 ,
 	"pensée" : 	{
-		"IAGOTCHI" : "Un exercice ludique et utile pour mieux conduire l'action",
-		"beauté1437" : [ "pensée et pour toi", "pensée des mécanismes de Renault qui... mais qui sont actifs et Danton ma conscience d'être active avec caisson actif... donc ce qui pourrait se différencier des choses qu'on fait sans en avoir conscience d'avoir des pensées inconsciente... bref..." ]
+		"IAGOTCHI" : "Un exercice ludique et utile pour mieux conduire l'action"
 	}
 ,
 	"conscience" : 	{
@@ -186,13 +168,11 @@
 		"USER0024" : "est-ce que tu as conscience d'être au milieu des humains",
 		"USER1023" : "est-ce que est-ce que tu as une conscience",
 		"USER1145" : "science sans conscience n'est que ruine de l'âme",
-		"USER1929" : "est-ce que j'ai conscience ça dépend aujourd'hui plus ou moins",
-		"nombre158" : "conscience confiance c'est l'ensemble des pensées..."
+		"USER1929" : "est-ce que j'ai conscience ça dépend aujourd'hui plus ou moins"
 	}
 ,
 	"passion" : 	{
-		"IAGOTCHI" : "Je n'ai pas de définition pour ce mot",
-		"beauté1437" : "passion c'est quelque chose qui me tient... les tiens... nous tiens..."
+		"IAGOTCHI" : "Je n'ai pas de définition pour ce mot"
 	}
 
 }

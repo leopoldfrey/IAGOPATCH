@@ -25,3 +25,6 @@ luce.htpmixer.mxo/Contents/PkgInfo
 lucli.mxo/Contents/Info.plist
 lucli.mxo/Contents/MacOS/lucli
 lucli.mxo/Contents/PkgInfo
+luce.list.mxo/Contents/Info.plist
+luce.list.mxo/Contents/MacOS/luce.list
+luce.list.mxo/Contents/PkgInfo
