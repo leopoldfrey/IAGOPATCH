@@ -41,7 +41,6 @@
 				"box" : 				{
 					"color" : [ 0.941176, 0.690196, 0.196078, 1.0 ],
 					"id" : "obj-33",
-					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
@@ -82,8 +81,49 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
+								"box" : 								{
+									"color" : [ 1.0, 0.741176, 0.196078, 1.0 ],
+									"id" : "obj-41",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 714.5, 449.875, 69.0, 22.0 ],
+									"style" : "",
+									"text" : "r clearQlab"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"color" : [ 0.941176, 0.690196, 0.196078, 1.0 ],
+									"id" : "obj-7",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 532.0, 431.0, 41.0, 22.0 ],
+									"style" : "",
+									"text" : "r stop"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"color" : [ 0.490196, 0.498039, 0.517647, 1.0 ],
+									"id" : "obj-6",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "bang" ],
+									"patching_rect" : [ 426.0, 459.0, 60.0, 22.0 ],
+									"style" : "",
+									"text" : "loadbang"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"id" : "obj-22",
 									"maxclass" : "newobj",
@@ -145,7 +185,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 426.0, 518.0, 657.0, 35.0 ],
 									"style" : "",
-									"text" : "/cue/IAGO/text \" \", /cue/IAGO2/text \" \", /cue/USER/text \" \", /cue/USER2/text \" \", /cue/name/text HUMAIN, /cue/name2/text HUMAIN"
+									"text" : "/cue/IAGO/text \" \", /cue/IAGO2/text \" \", /cue/USER/text \" \", /cue/USER2/text \" \", /cue/name/text HUMAIN, /cue/name2/text HUMAIN, /cue/ianame/text IAGOTCHI, /cue/ianame2/text IAGOTCHI"
 								}
 
 							}
@@ -572,6 +612,13 @@
 							}
 , 							{
 								"patchline" : 								{
+									"destination" : [ "obj-2", 0 ],
+									"source" : [ "obj-41", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
 									"destination" : [ "obj-13", 0 ],
 									"source" : [ "obj-5", 0 ]
 								}
@@ -581,6 +628,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-63", 0 ],
 									"source" : [ "obj-53", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-2", 0 ],
+									"source" : [ "obj-6", 0 ]
 								}
 
 							}
@@ -597,6 +651,13 @@
 									"destination" : [ "obj-20", 0 ],
 									"order" : 0,
 									"source" : [ "obj-63", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-2", 0 ],
+									"source" : [ "obj-7", 0 ]
 								}
 
 							}
@@ -664,6 +725,23 @@
 								"multi" : 0
 							}
 , 							{
+								"name" : "Audiomix",
+								"default" : 								{
+									"bgfillcolor" : 									{
+										"type" : "gradient",
+										"color1" : [ 0.376471, 0.384314, 0.4, 1.0 ],
+										"color2" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+										"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+										"angle" : 270.0,
+										"proportion" : 0.39
+									}
+
+								}
+,
+								"parentstyle" : "",
+								"multi" : 0
+							}
+, 							{
 								"name" : "arialbold",
 								"default" : 								{
 									"fontsize" : [ 10.0 ],
@@ -676,7 +754,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 140.5, 257.954559, 49.0, 35.0 ],
+					"patching_rect" : [ 140.5, 257.954559, 53.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 140.5, 256.681824, 53.0, 22.0 ],
 					"saved_object_attributes" : 					{
@@ -1174,7 +1252,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 261.0, 292.210663, 35.0, 22.0 ],
+					"patching_rect" : [ 193.0, 308.210663, 35.0, 22.0 ],
 					"style" : "",
 					"text" : "s init"
 				}
@@ -1187,22 +1265,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 241.0, 324.210663, 43.0, 22.0 ],
+					"patching_rect" : [ 241.0, 350.210663, 43.0, 22.0 ],
 					"style" : "",
 					"text" : "s stop"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-30",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 241.0, 260.210663, 63.0, 22.0 ],
-					"style" : "",
-					"text" : "del 30000"
 				}
 
 			}
@@ -1544,7 +1609,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 73.5, 216.0, 109.0, 22.0 ],
 																	"style" : "",
-																	"text" : "/color 130 130 130"
+																	"text" : "/color 100 100 100"
 																}
 
 															}
@@ -2352,7 +2417,6 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 57.5, 291.0, 123.0, 22.0 ],
-													"presentation_rect" : [ 57.5, 291.0, 0.0, 0.0 ],
 													"style" : "",
 													"text" : "prepend IAGOTCHI :"
 												}
@@ -4917,7 +4981,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 245.0, 111.0, 927.0, 483.0 ],
+						"rect" : [ 241.0, 298.0, 927.0, 483.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -5043,9 +5107,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 756.0, 138.5, 51.0, 22.0 ],
+									"patching_rect" : [ 756.0, 138.5, 57.0, 22.0 ],
 									"style" : "",
-									"text" : "127 6 1"
+									"text" : "127 66 1"
 								}
 
 							}
@@ -5072,7 +5136,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 690.0, 121.0, 51.0, 22.0 ],
 									"style" : "",
-									"text" : "127 5 1"
+									"text" : "127 5 3"
 								}
 
 							}
@@ -5085,7 +5149,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 627.0, 121.0, 51.0, 22.0 ],
 									"style" : "",
-									"text" : "127 4 1"
+									"text" : "127 4 3"
 								}
 
 							}
@@ -5413,7 +5477,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 115.0, 253.0, 51.0, 22.0 ],
 									"style" : "",
-									"text" : "127 3 1"
+									"text" : "127 3 3"
 								}
 
 							}
@@ -5426,7 +5490,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 52.0, 253.0, 51.0, 22.0 ],
 									"style" : "",
-									"text" : "127 2 1"
+									"text" : "127 2 3"
 								}
 
 							}
@@ -6978,7 +7042,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20181009_122158"
+													"text" : "20181010_122925"
 												}
 
 											}
@@ -19341,7 +19405,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ],
 									"style" : "",
-									"text" : "22"
+									"text" : "0"
 								}
 
 							}
@@ -19357,7 +19421,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 482.25, 39.0, 22.0 ],
 									"style" : "",
-									"text" : "32"
+									"text" : "367"
 								}
 
 							}
@@ -22430,7 +22494,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 130.0, 431.0, 111.0, 24.0 ],
 									"style" : "",
-									"text" : "USER",
+									"text" : "Célie",
 									"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ]
 								}
 
@@ -25685,7 +25749,7 @@
 									"presentation_rect" : [ 225.5, 534.75, 60.0, 29.0 ],
 									"preset_data" : [ 										{
 											"number" : 1,
-											"data" : [ 5, "obj-49", "number", "int", 300, 5, "obj-25", "number", "int", 60, 5, "obj-75", "number", "int", 30, 5, "obj-99", "number", "int", 5, 5, "obj-86", "number", "int", 5 ]
+											"data" : [ 5, "obj-49", "number", "int", 420, 5, "obj-25", "number", "int", 60, 5, "obj-75", "number", "int", 30, 5, "obj-99", "number", "int", 5, 5, "obj-86", "number", "int", 5 ]
 										}
 , 										{
 											"number" : 2,
@@ -25723,7 +25787,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 440.75, 39.0, 22.0 ],
 									"style" : "",
-									"text" : "48"
+									"text" : "27"
 								}
 
 							}
@@ -29983,7 +30047,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 441.0, 52.0, 73.0, 22.0 ],
 													"style" : "",
-													"text" : "\"le savoir\""
+													"text" : "\"la vie\""
 												}
 
 											}
@@ -37890,6 +37954,7 @@
 										"tags" : "",
 										"style" : "",
 										"subpatcher_template" : "",
+										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"color" : [ 0.113725, 0.580392, 0.737255, 1.0 ],
@@ -38149,7 +38214,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 221.5, 13.0, 192.0, 22.0 ],
 																	"style" : "",
-																	"text" : "ça s'écrit tableau blanc"
+																	"text" : "tu manges"
 																}
 
 															}
@@ -38726,6 +38791,7 @@
 														"tags" : "",
 														"style" : "",
 														"subpatcher_template" : "",
+														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"id" : "obj-21",
@@ -38772,7 +38838,7 @@
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 344.0, 222.0, 203.0, 22.0 ],
+																	"patching_rect" : [ 327.5, 172.0, 203.0, 22.0 ],
 																	"style" : "",
 																	"text" : "quelle est la définition de la richesse"
 																}
@@ -39029,14 +39095,13 @@
 																"box" : 																{
 																	"dontreplace" : 1,
 																	"id" : "obj-38",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 221.5, 13.0, 90.0, 35.0 ],
+																	"patching_rect" : [ 221.5, 13.0, 94.0, 22.0 ],
 																	"style" : "",
-																	"text" : "ça s'écrit tableau blanc"
+																	"text" : "qu'est-ce que"
 																}
 
 															}
@@ -40239,14 +40304,13 @@
 , 															{
 																"box" : 																{
 																	"id" : "obj-26",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 72.0, 100.0, 106.0, 22.0 ],
 																	"style" : "",
-																	"text" : "ça s'écrit tableau blanc"
+																	"text" : "un mot"
 																}
 
 															}
@@ -41631,7 +41695,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 78.0, 468.0, 50.0, 22.0 ],
 																	"style" : "",
-																	"text" : "8"
+																	"text" : "0"
 																}
 
 															}
@@ -41853,7 +41917,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 329.0, 468.0, 305.0, 22.0 ],
 																	"style" : "",
-																	"text" : "ça s'écrit tableau blanc"
+																	"text" : "un mot"
 																}
 
 															}
@@ -41867,7 +41931,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 198.0, 466.0, 46.0, 22.0 ],
 																	"style" : "",
-																	"text" : "savoir"
+																	"text" : "vie"
 																}
 
 															}
@@ -43943,7 +44007,7 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-11", 0 ],
+													"destination" : [ "obj-126", 0 ],
 													"order" : 0,
 													"source" : [ "obj-24", 2 ],
 													"watchpoint_flags" : 1,
@@ -44056,7 +44120,7 @@
 											}
 , 											{
 												"patchline" : 												{
-													"destination" : [ "obj-11", 0 ],
+													"destination" : [ "obj-126", 0 ],
 													"source" : [ "obj-7", 1 ],
 													"watchpoint_flags" : 1,
 													"watchpoint_id" : 2
@@ -44181,7 +44245,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 130.0, 458.408569, 111.0, 24.0 ],
 									"style" : "",
-									"text" : "savoir",
+									"text" : "vie",
 									"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ]
 								}
 
@@ -44873,14 +44937,13 @@
 , 															{
 																"box" : 																{
 																	"id" : "obj-6",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 178.0, 192.0, 73.0, 22.0 ],
 																	"style" : "",
-																	"text" : "tableau blanc"
+																	"text" : "Célie"
 																}
 
 															}
@@ -44982,7 +45045,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 171.5, 432.5, 141.0, 22.0 ],
 																	"style" : "",
-																	"text" : "\"tableau blanc\""
+																	"text" : "Célie"
 																}
 
 															}
@@ -46968,14 +47031,14 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-13",
-									"linecount" : 15,
+									"linecount" : 7,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 71.0, 275.0, 189.0, 210.0 ],
 									"style" : "",
-									"text" : "Triangle de ce talisman de paresseux, mouilla d'or par ses fait et mur. En concepts sont les choses mêmes à l'état libre et sauvage. Les concepts sont les choses mêmes à l'état libre et sauvage. Les concepts sont les choses mêmes à l'état libre et sauvage. Les concepts sont les choses mêmes à l'état libre et sauvage. Les concepts sont les choses mêmes à l'état libre et sauvage. Les concepts sont les choses mêmes à l'état libre et sauvage."
+									"text" : "spectral la peau affolante la morphologie de la mort folle et amorphe mort folle la mort la mort folle la morphologie de la boue aimée et c'est bien la mort la vie vit, la l'eau et de la haine comme un bolide mou"
 								}
 
 							}
@@ -47416,9 +47479,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 290.0, 221.0, 322.0, 22.0 ],
+									"patching_rect" : [ 290.0, 221.0, 322.0, 62.0 ],
 									"style" : "",
-									"text" : "\"je vois que tu apprécies le silence. moi aussi.\""
+									"text" : "\"japprends au moins jessaye \""
 								}
 
 							}
@@ -49527,7 +49590,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 108.0, 114.0, 348.0, 22.0 ],
 									"style" : "",
-									"text" : "allez au revoir"
+									"text" : "un mot"
 								}
 
 							}
@@ -49540,7 +49603,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 70.0, 144.0, 356.0, 22.0 ],
 									"style" : "",
-									"text" : "allez au revoir"
+									"text" : "un mot"
 								}
 
 							}
@@ -50303,24 +50366,17 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-30", 0 ],
+					"destination" : [ "obj-31", 0 ],
+					"order" : 0,
 					"source" : [ "obj-29", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-31", 0 ],
-					"order" : 1,
-					"source" : [ "obj-30", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-32", 0 ],
-					"order" : 0,
-					"source" : [ "obj-30", 0 ]
+					"order" : 1,
+					"source" : [ "obj-29", 0 ]
 				}
 
 			}
