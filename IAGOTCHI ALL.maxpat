@@ -395,8 +395,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -3930,8 +3930,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -4136,8 +4136,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -4604,8 +4604,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -8392,8 +8392,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -8576,8 +8576,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -9696,8 +9696,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -10848,8 +10848,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -11924,7 +11924,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20181006_004537"
+													"text" : "20181023_100632"
 												}
 
 											}
@@ -13362,8 +13362,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -13982,8 +13982,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -15741,8 +15741,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -16065,8 +16065,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -16664,8 +16664,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -17296,8 +17296,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -19055,8 +19055,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -19386,8 +19386,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -19998,8 +19998,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -20589,8 +20589,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -22348,8 +22348,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -22707,8 +22707,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -22771,8 +22771,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -23410,8 +23410,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -24307,8 +24307,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -24372,8 +24372,7 @@
 									"patching_rect" : [ 111.0, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ],
-									"style" : "",
-									"text" : "0"
+									"style" : ""
 								}
 
 							}
@@ -25195,8 +25194,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -26630,8 +26629,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -27417,8 +27416,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -29074,8 +29073,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -29772,8 +29771,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -30779,8 +30778,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -30937,8 +30936,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -31585,8 +31584,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -32080,8 +32079,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -33464,8 +33463,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -34231,8 +34230,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -34807,8 +34806,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -36464,8 +36463,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -37770,8 +37769,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -39116,8 +39115,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -40124,8 +40123,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -41879,8 +41878,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -42809,8 +42808,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -44356,8 +44355,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontname" : [ "Arial Bold" ],
-																					"fontsize" : [ 10.0 ]
+																					"fontsize" : [ 10.0 ],
+																					"fontname" : [ "Arial Bold" ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -45227,8 +45226,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontname" : [ "Arial Bold" ],
-																	"fontsize" : [ 10.0 ]
+																	"fontsize" : [ 10.0 ],
+																	"fontname" : [ "Arial Bold" ]
 																}
 ,
 																"parentstyle" : "",
@@ -48288,8 +48287,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontname" : [ "Arial Bold" ],
-													"fontsize" : [ 10.0 ]
+													"fontsize" : [ 10.0 ],
+													"fontname" : [ "Arial Bold" ]
 												}
 ,
 												"parentstyle" : "",
@@ -50245,8 +50244,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -50908,8 +50907,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontname" : [ "Arial Bold" ],
-									"fontsize" : [ 10.0 ]
+									"fontsize" : [ 10.0 ],
+									"fontname" : [ "Arial Bold" ]
 								}
 ,
 								"parentstyle" : "",
@@ -53022,12 +53021,25 @@
 						"subpatcher_template" : "",
 						"boxes" : [ 							{
 								"box" : 								{
+									"id" : "obj-7",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
+									"patching_rect" : [ 37.0, 57.0, 56.0, 22.0 ],
+									"style" : "",
+									"text" : "deferlow"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"color" : [ 1.0, 0.741176, 0.196078, 1.0 ],
 									"id" : "obj-5",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 196.0, 204.0, 100.0, 22.0 ],
+									"patching_rect" : [ 196.0, 249.0, 100.0, 22.0 ],
 									"style" : "",
 									"text" : "s fromRecoWord"
 								}
@@ -53040,7 +53052,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 77.0, 193.0, 100.0, 22.0 ],
+									"patching_rect" : [ 77.0, 238.0, 100.0, 22.0 ],
 									"style" : "",
 									"text" : "s fromReco2visu"
 								}
@@ -53053,7 +53065,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 531.0, 328.0, 34.0, 22.0 ],
+									"patching_rect" : [ 531.0, 373.0, 34.0, 22.0 ],
 									"style" : "",
 									"text" : "gate"
 								}
@@ -53066,7 +53078,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 417.0, 328.0, 34.0, 22.0 ],
+									"patching_rect" : [ 417.0, 373.0, 34.0, 22.0 ],
 									"style" : "",
 									"text" : "gate"
 								}
@@ -53080,7 +53092,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 435.5, 221.625, 24.0, 24.0 ],
+									"patching_rect" : [ 435.5, 266.625, 24.0, 24.0 ],
 									"style" : ""
 								}
 
@@ -53093,7 +53105,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 435.5, 186.0, 105.0, 22.0 ],
+									"patching_rect" : [ 435.5, 231.0, 105.0, 22.0 ],
 									"style" : "",
 									"text" : "sw Debug_RECO"
 								}
@@ -53589,7 +53601,7 @@
  ]
 									}
 ,
-									"patching_rect" : [ 559.0, 233.0, 47.0, 22.0 ],
+									"patching_rect" : [ 559.0, 278.0, 47.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"description" : "",
 										"digest" : "",
@@ -53611,7 +53623,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 88.0, 267.0, 37.0, 22.0 ],
+									"patching_rect" : [ 88.0, 312.0, 37.0, 22.0 ],
 									"style" : "",
 									"text" : "r exit"
 								}
@@ -53624,7 +53636,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 88.0, 306.0, 33.0, 22.0 ],
+									"patching_rect" : [ 88.0, 351.0, 33.0, 22.0 ],
 									"style" : "",
 									"text" : "/exit"
 								}
@@ -53636,7 +53648,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 417.0, 364.0, 103.0, 22.0 ],
+									"patching_rect" : [ 417.0, 409.0, 103.0, 22.0 ],
 									"style" : "",
 									"text" : "print SENTENCE"
 								}
@@ -53648,7 +53660,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 531.0, 364.0, 83.0, 22.0 ],
+									"patching_rect" : [ 531.0, 409.0, 83.0, 22.0 ],
 									"style" : "",
 									"text" : "print WORDS"
 								}
@@ -53660,7 +53672,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 9.0, 144.0, 59.0, 20.0 ],
+									"patching_rect" : [ 9.0, 189.0, 59.0, 20.0 ],
 									"style" : "",
 									"text" : "sentence"
 								}
@@ -53672,7 +53684,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 65.0, 114.0, 43.0, 20.0 ],
+									"patching_rect" : [ 65.0, 159.0, 43.0, 20.0 ],
 									"style" : "",
 									"text" : "words"
 								}
@@ -53685,7 +53697,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 37.0, 48.0, 73.0, 22.0 ],
+									"patching_rect" : [ 37.0, 93.0, 73.0, 22.0 ],
 									"style" : "",
 									"text" : "fromsymbol"
 								}
@@ -53698,7 +53710,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 108.0, 114.0, 348.0, 22.0 ],
+									"patching_rect" : [ 108.0, 159.0, 348.0, 22.0 ],
 									"style" : "",
 									"text" : "c'est quoi ton poème préféré"
 								}
@@ -53711,7 +53723,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 70.0, 144.0, 356.0, 22.0 ],
+									"patching_rect" : [ 70.0, 189.0, 356.0, 22.0 ],
 									"style" : "",
 									"text" : "encore"
 								}
@@ -54052,7 +54064,7 @@
  ]
 									}
 ,
-									"patching_rect" : [ 214.0, 75.5, 64.0, 22.0 ],
+									"patching_rect" : [ 214.0, 120.5, 64.0, 22.0 ],
 									"saved_object_attributes" : 									{
 										"description" : "",
 										"digest" : "",
@@ -54086,7 +54098,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
-									"patching_rect" : [ 37.0, 81.0, 162.0, 22.0 ],
+									"patching_rect" : [ 37.0, 126.0, 162.0, 22.0 ],
 									"style" : "",
 									"text" : "OSC-route /sentence /words"
 								}
@@ -54100,7 +54112,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 38.0, 253.0, 73.0, 22.0 ],
+									"patching_rect" : [ 38.0, 298.0, 73.0, 22.0 ],
 									"style" : "",
 									"text" : "r resetReco"
 								}
@@ -54114,7 +54126,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 226.0, 267.0, 80.0, 22.0 ],
+									"patching_rect" : [ 226.0, 312.0, 80.0, 22.0 ],
 									"style" : "",
 									"text" : "r restartReco"
 								}
@@ -54128,7 +54140,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 137.0, 267.0, 79.0, 22.0 ],
+									"patching_rect" : [ 137.0, 312.0, 79.0, 22.0 ],
 									"style" : "",
 									"text" : "r pauseReco"
 								}
@@ -54141,7 +54153,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 226.0, 299.0, 48.0, 22.0 ],
+									"patching_rect" : [ 226.0, 344.0, 48.0, 22.0 ],
 									"style" : "",
 									"text" : "/record"
 								}
@@ -54154,7 +54166,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 137.0, 299.0, 47.0, 22.0 ],
+									"patching_rect" : [ 137.0, 344.0, 47.0, 22.0 ],
 									"style" : "",
 									"text" : "/pause"
 								}
@@ -54167,7 +54179,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 38.0, 306.0, 48.0, 22.0 ],
+									"patching_rect" : [ 38.0, 351.0, 48.0, 22.0 ],
 									"style" : "",
 									"text" : "/restart"
 								}
@@ -54179,7 +54191,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 38.0, 344.0, 137.0, 22.0 ],
+									"patching_rect" : [ 38.0, 389.0, 137.0, 22.0 ],
 									"style" : "",
 									"text" : "udpsend localhost 9000"
 								}
@@ -54192,7 +54204,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 37.0, 226.0, 72.0, 22.0 ],
+									"patching_rect" : [ 37.0, 271.0, 72.0, 22.0 ],
 									"style" : "",
 									"text" : "s fromReco"
 								}
@@ -54325,7 +54337,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-37", 0 ],
+									"destination" : [ "obj-7", 0 ],
 									"source" : [ "obj-28", 0 ]
 								}
 
@@ -54355,6 +54367,13 @@
 								"patchline" : 								{
 									"destination" : [ "obj-3", 0 ],
 									"source" : [ "obj-6", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-37", 0 ],
+									"source" : [ "obj-7", 0 ]
 								}
 
 							}
@@ -54662,8 +54681,8 @@
 , 			{
 				"name" : "arialbold",
 				"default" : 				{
-					"fontname" : [ "Arial Bold" ],
-					"fontsize" : [ 10.0 ]
+					"fontsize" : [ 10.0 ],
+					"fontname" : [ "Arial Bold" ]
 				}
 ,
 				"parentstyle" : "",
