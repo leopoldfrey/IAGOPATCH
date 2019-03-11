@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 3,
-			"revision" : 5,
+			"revision" : 6,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -49,7 +49,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -744,8 +744,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -782,7 +782,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1219,8 +1219,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -1296,7 +1296,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1354,7 +1354,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1515,7 +1515,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -1609,7 +1609,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 73.5, 216.0, 109.0, 22.0 ],
 																	"style" : "",
-																	"text" : "/color 100 100 100"
+																	"text" : "/color 130 130 130"
 																}
 
 															}
@@ -1719,7 +1719,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -2363,7 +2363,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2434,7 +2434,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -3313,7 +3313,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -3804,7 +3804,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -4597,8 +4597,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -4781,8 +4781,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -4976,7 +4976,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5880,8 +5880,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -6048,7 +6048,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7001,7 +7001,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -7042,7 +7042,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20181023_100552"
+													"text" : "20190305_152805"
 												}
 
 											}
@@ -7708,7 +7708,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7873,7 +7873,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -7917,7 +7917,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -8011,7 +8011,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -8068,7 +8068,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -8493,8 +8493,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -8742,7 +8742,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -9113,8 +9113,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -9292,7 +9292,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -9491,7 +9491,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -9654,7 +9654,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -9853,7 +9853,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -10830,8 +10830,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -11161,8 +11161,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -11197,7 +11197,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -11278,7 +11278,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -11335,7 +11335,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -11760,8 +11760,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -12021,7 +12021,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -12392,8 +12392,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -12571,7 +12571,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -12770,7 +12770,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -12933,7 +12933,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -13132,7 +13132,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -14109,8 +14109,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -14440,8 +14440,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -14476,7 +14476,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -14570,7 +14570,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -14627,7 +14627,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -15052,8 +15052,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -15272,7 +15272,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -15643,8 +15643,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -15822,7 +15822,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -16021,7 +16021,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -16184,7 +16184,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -16383,7 +16383,7 @@
 																						"appversion" : 																						{
 																							"major" : 7,
 																							"minor" : 3,
-																							"revision" : 5,
+																							"revision" : 6,
 																							"architecture" : "x64",
 																							"modernui" : 1
 																						}
@@ -17360,8 +17360,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -17719,8 +17719,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -17783,8 +17783,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -18216,7 +18216,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -18422,8 +18422,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -18489,7 +18489,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -18712,7 +18712,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -19011,7 +19011,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -19339,8 +19339,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -19420,7 +19420,8 @@
 									"patching_rect" : [ 390.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 482.25, 39.0, 22.0 ],
-									"style" : ""
+									"style" : "",
+									"text" : "420"
 								}
 
 							}
@@ -19467,7 +19468,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -20206,8 +20207,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -20360,7 +20361,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -21109,7 +21110,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -21167,7 +21168,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -21654,8 +21655,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -21730,7 +21731,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -22428,8 +22429,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -22493,7 +22494,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 130.0, 431.0, 111.0, 24.0 ],
 									"style" : "",
-									"text" : "Célie",
+									"text" : "USER",
 									"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ]
 								}
 
@@ -22539,7 +22540,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -22938,7 +22939,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -22995,7 +22996,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -23287,7 +23288,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -23343,7 +23344,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -23590,7 +23591,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -24090,8 +24091,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -24152,7 +24153,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -24428,7 +24429,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -24484,7 +24485,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -24731,7 +24732,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -25231,8 +25232,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -25680,8 +25681,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -25785,7 +25786,8 @@
 									"patching_rect" : [ 252.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 440.75, 39.0, 22.0 ],
-									"style" : ""
+									"style" : "",
+									"text" : "28"
 								}
 
 							}
@@ -25801,7 +25803,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -25857,7 +25859,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26191,7 +26193,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -26778,8 +26780,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -26841,7 +26843,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -27253,8 +27255,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -27436,7 +27438,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -27863,7 +27865,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -28578,8 +28580,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -28616,7 +28618,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -29345,8 +29347,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -29383,7 +29385,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -29439,7 +29441,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -29496,7 +29498,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -29921,8 +29923,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -30045,7 +30047,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 441.0, 52.0, 73.0, 22.0 ],
 													"style" : "",
-													"text" : "\"la vie\""
+													"text" : "\"le mal\""
 												}
 
 											}
@@ -30061,7 +30063,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -30319,7 +30321,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -30402,7 +30404,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -30662,7 +30664,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -31009,7 +31011,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -31578,8 +31580,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -31614,7 +31616,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -31697,7 +31699,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -31958,7 +31960,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -32306,7 +32308,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -32884,8 +32886,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -32960,7 +32962,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -33043,7 +33045,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -33304,7 +33306,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -33652,7 +33654,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -34230,8 +34232,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -34292,7 +34294,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -34350,7 +34352,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -34697,7 +34699,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -35238,8 +35240,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -35352,7 +35354,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35612,7 +35614,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -35775,7 +35777,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -35974,7 +35976,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -36951,8 +36953,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -37881,8 +37883,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -37920,7 +37922,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -37965,7 +37967,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -38560,7 +38562,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -38756,7 +38758,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -39537,8 +39539,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -39632,7 +39634,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -39727,7 +39729,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -40246,8 +40248,8 @@
 , 																			{
 																				"name" : "arialbold",
 																				"default" : 																				{
-																					"fontsize" : [ 10.0 ],
-																					"fontname" : [ "Arial Bold" ]
+																					"fontname" : [ "Arial Bold" ],
+																					"fontsize" : [ 10.0 ]
 																				}
 ,
 																				"parentstyle" : "",
@@ -40305,7 +40307,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 72.0, 100.0, 106.0, 22.0 ],
 																	"style" : "",
-																	"text" : "un mot"
+																	"text" : "c'était pas mal"
 																}
 
 															}
@@ -41117,8 +41119,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -41237,7 +41239,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -41307,7 +41309,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -41432,7 +41434,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -41689,7 +41691,8 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 78.0, 468.0, 50.0, 22.0 ],
-																	"style" : ""
+																	"style" : "",
+																	"text" : "17"
 																}
 
 															}
@@ -41705,7 +41708,7 @@
 																		"appversion" : 																		{
 																			"major" : 7,
 																			"minor" : 3,
-																			"revision" : 5,
+																			"revision" : 6,
 																			"architecture" : "x64",
 																			"modernui" : 1
 																		}
@@ -41910,7 +41913,8 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 329.0, 468.0, 305.0, 22.0 ],
-																	"style" : ""
+																	"style" : "",
+																	"text" : "combien d'habitants existent"
 																}
 
 															}
@@ -41923,7 +41927,8 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 198.0, 466.0, 46.0, 22.0 ],
-																	"style" : ""
+																	"style" : "",
+																	"text" : "mal"
 																}
 
 															}
@@ -42300,7 +42305,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -42716,7 +42721,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -43519,7 +43524,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -43794,8 +43799,8 @@
 , 															{
 																"name" : "arialbold",
 																"default" : 																{
-																	"fontsize" : [ 10.0 ],
-																	"fontname" : [ "Arial Bold" ]
+																	"fontname" : [ "Arial Bold" ],
+																	"fontsize" : [ 10.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -44172,8 +44177,8 @@
 , 											{
 												"name" : "arialbold",
 												"default" : 												{
-													"fontsize" : [ 10.0 ],
-													"fontname" : [ "Arial Bold" ]
+													"fontname" : [ "Arial Bold" ],
+													"fontsize" : [ 10.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -44237,7 +44242,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 130.0, 458.408569, 111.0, 24.0 ],
 									"style" : "",
-									"text" : "vie",
+									"text" : "mal",
 									"textcolor" : [ 0.784314, 0.145098, 0.023529, 1.0 ]
 								}
 
@@ -44342,7 +44347,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -44399,7 +44404,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -44854,7 +44859,7 @@
 														"appversion" : 														{
 															"major" : 7,
 															"minor" : 3,
-															"revision" : 5,
+															"revision" : 6,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -44935,7 +44940,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 178.0, 192.0, 73.0, 22.0 ],
 																	"style" : "",
-																	"text" : "Célie"
+																	"text" : "Jérôme"
 																}
 
 															}
@@ -45037,7 +45042,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 171.5, 432.5, 141.0, 22.0 ],
 																	"style" : "",
-																	"text" : "Célie"
+																	"text" : "Jérôme"
 																}
 
 															}
@@ -46127,8 +46132,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -46169,7 +46174,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -46790,8 +46795,8 @@
 , 							{
 								"name" : "arialbold",
 								"default" : 								{
-									"fontsize" : [ 10.0 ],
-									"fontname" : [ "Arial Bold" ]
+									"fontname" : [ "Arial Bold" ],
+									"fontsize" : [ 10.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -46828,7 +46833,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -47023,14 +47028,14 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-13",
-									"linecount" : 7,
+									"linecount" : 4,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 71.0, 275.0, 189.0, 210.0 ],
 									"style" : "",
-									"text" : "spectral la peau affolante la morphologie de la mort folle et amorphe mort folle la mort la mort folle la morphologie de la boue aimée et c'est bien la mort la vie vit, la l'eau et de la haine comme un bolide mou"
+									"text" : "J’écris, la possibilité dévot étage, avec une vie suprême, je ne vaut pas mon pas être de la scie, A sa rage"
 								}
 
 							}
@@ -47393,7 +47398,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -47458,9 +47463,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 319.0, 124.0, 49.0, 22.0 ],
+									"patching_rect" : [ 319.0, 124.0, 51.0, 22.0 ],
 									"style" : "",
-									"text" : "n'en as"
+									"text" : "bonjour"
 								}
 
 							}
@@ -47471,9 +47476,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 290.0, 221.0, 322.0, 62.0 ],
+									"patching_rect" : [ 290.0, 221.0, 322.0, 22.0 ],
 									"style" : "",
-									"text" : "\"japprends au moins jessaye \""
+									"text" : "\"merci pour tes mots jérome. à la prochaine \""
 								}
 
 							}
@@ -47691,7 +47696,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -48870,7 +48875,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 5,
+							"revision" : 6,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -48922,7 +48927,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 196.0, 264.0, 100.0, 22.0 ],
+									"patching_rect" : [ 198.0, 253.0, 100.0, 22.0 ],
 									"style" : "",
 									"text" : "s fromRecoWord"
 								}
@@ -48935,7 +48940,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 77.0, 253.0, 100.0, 22.0 ],
+									"patching_rect" : [ 80.0, 246.0, 100.0, 22.0 ],
 									"style" : "",
 									"text" : "s fromReco2visu"
 								}
@@ -49005,7 +49010,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -49589,26 +49594,28 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-36",
+									"linecount" : 4,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 108.0, 174.0, 348.0, 22.0 ],
+									"patching_rect" : [ 108.0, 174.0, 348.0, 62.0 ],
 									"style" : "",
-									"text" : "un mot"
+									"text" : "machine voiture Mercedes Saint-Denis de la colonisation alphactif de Bobby sur son corps machine voiture Mercedes s'est éteinte elle réprime son indignation machine des représailles et s'oxyde de silence"
 								}
 
 							}
 , 							{
 								"box" : 								{
 									"id" : "obj-35",
+									"linecount" : 4,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 70.0, 204.0, 356.0, 22.0 ],
+									"patching_rect" : [ 70.0, 204.0, 356.0, 62.0 ],
 									"style" : "",
-									"text" : "un mot"
+									"text" : "machine voiture Mercedes s'indigne de la colonisation alphactif de Bobby sur son corps machine voiture Mercedes s'est éteinte elle réprime son indignation machines des représailles et s'oxyde de silence"
 								}
 
 							}
@@ -49624,7 +49631,7 @@
 										"appversion" : 										{
 											"major" : 7,
 											"minor" : 3,
-											"revision" : 5,
+											"revision" : 6,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -50402,8 +50409,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "sw.maxpat",
-				"bootpath" : "/Users/Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
-				"patcherrelativepath" : "../../../../../../Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
+				"bootpath" : "/Users/Shared/Max 8/Examples/max-tricks/send-receive-tricks/lib",
+				"patcherrelativepath" : "../../../../../../Shared/Max 8/Examples/max-tricks/send-receive-tricks/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -50480,8 +50487,8 @@
 , 			{
 				"name" : "arialbold",
 				"default" : 				{
-					"fontsize" : [ 10.0 ],
-					"fontname" : [ "Arial Bold" ]
+					"fontname" : [ "Arial Bold" ],
+					"fontsize" : [ 10.0 ]
 				}
 ,
 				"parentstyle" : "",
