@@ -1,0 +1,41 @@
+20190325_110716 USER_name USER
+20190325_110716 IAGOTCHI_welcome aua ua uauuau auaiiau IIIAAGOTCHI! qui m’a réveillée ? Bonjour ?
+20190325_110754 IAGOTCHI_retalk Je pense que la poésie sauvera le monde. Pas toi ?
+20190325_110819 USER_reco ah oui ça tu m'en avais parlé vite fait
+20190325_110819 IAGOTCHI_welcome Comment tu t’appelles ?
+20190325_110824 USER_reco je m'appelle Jean-Pierre
+20190325_110824 USER_name Jean-Pierre
+20190325_110824 IAGOTCHI_welcome Tu es Jean-Pierre ? Bonjour Jean-Pierre. Tu veux parler avec moi ?
+20190325_110836 USER_reco non pas vraiment
+20190325_110836 USER_chatbot non pas vraiment
+20190325_110853 USER_reco mais éteint qui est plus de tout ça tout ça est-ce que c'est finalement est-ce que c'est parti
+20190325_110855 IAGOTCHI_keywordAction Ça titre original : It est un roman d'horreur écrit par Stephen King publié en 1986 et qui a remporté le prix British Fantasy 1987.0000
+20190325_110918 USER_reco mais ça il y a juste générateur comme il faut juste reprendre ce petit mot en copier-coller
+20190325_110918 USER_chatbot mais ça il y a juste générateur comme il faut juste reprendre ce petit mot en copier-coller
+20190325_110931 USER_reco et je vais me mettre maintenant
+20190325_110931 USER_chatbot et je vais me mettre maintenant
+20190325_110947 USER_reco et l'écouter recommencer
+20190325_110947 USER_chatbot et l'écouter recommencer
+20190325_110951 USER_reco je prépare un truc qui me permet d'avoir tout ça
+20190325_110951 USER_chatbot je prépare un truc qui me permet d'avoir tout ça
+20190325_111016 USER_reco si c'est vraiment écrit on sort du chat
+20190325_111016 USER_chatbot si c'est vraiment écrit on sort du chat
+20190325_111032 USER_reco non je le connais un autre base de données
+20190325_111033 IAGOTCHI_keywordAction Une base de données en anglais database permet de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles .
+20190325_111058 USER_reco comment est-ce qu'on se refasse après avec les nouvelles choses donc du coup avec les images avec
+20190325_111058 USER_chatbot comment est-ce qu'on se refasse après avec les nouvelles choses donc du coup avec les images avec
+20190325_111104 USER_reco est-ce que c'est des mots clés que quand toi tu vas dire il va chercher des images est-ce que
+20190325_111105 IAGOTCHI_keywordAction Le moteur de recherche Google qui a donné le nom à la société Google est le moteur de recherche sur le Web le plus utilisé au monde.
+20190325_111132 USER_reco je voulais le mettre ça mais ça c'est à voir comment on fait un autre qui peut intégrer un peu la connaissance des
+20190325_111133 IAGOTCHI_keywordAction Sancé est une commune française située dans le département de Saône-et-Loire en région Bourgogne-Franche-Comté.
+20190325_111145 USER_reco ok la liste des paroles donc le truc elle va chercher
+20190325_111145 USER_chatbot ok la liste des paroles donc le truc elle va chercher
+20190325_111153 USER_reco le traducteur automatique
+20190325_111153 USER_chatbot le traducteur automatique
+20190325_111159 USER_reco Ouais ouais ben je prépare ça
+20190325_111159 USER_chatbot Ouais ouais ben je prépare ça
+20190325_111216 IAGOTCHI_end Puffff trop de mots ahhhhh je vais me mettre en stand-by pour les organiser.
+20190325_111222 IAGOTCHI_end Merci pour tes mots Jean-Pierre. À la prochaine
+20190325_111222 USER_name USER
+20190325_111340 USER_reco non Mathieu
+20190325_111349 USER_reco moi aussi j'ai 5 celui-là
